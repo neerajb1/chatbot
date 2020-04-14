@@ -37,17 +37,17 @@ ENDPOINTS = {
 FACILITY_TYPES = {
     "hospital":
         {
-            "name": "hospital",
+            "name": "stores",
             "resource": "xubh-q36u"
         },
     "nursing_home":
         {
-            "name": "nursing home",
+            "name": "brands",
             "resource": "b27b-2uc7"
         },
     "home_health":
         {
-            "name": "home health agency",
+            "name": "malls",
             "resource": "9wzi-peqs"
         }
 }

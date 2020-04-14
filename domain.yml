@@ -42,7 +42,7 @@ actions:
 templates:
   utter_greet:
   - text: "Hi. What are you looking for?"
-  - text: "Hey there! Please choose one of the healthcare facility options:"
+  - text: "Hey there! Please choose one of the reciproci store options:"
   - text: "Hello! What can I help you find today?"
 
   utter_goodbye:
@@ -55,7 +55,7 @@ templates:
   - text: "You are welcome!"
 
   utter_ask_facility_type:
-  - text: "Choose one of the following to search for: hospital, nursing home, or home health agency."
+  - text: "Choose one of the following to search for: reciproci stores , malls or brands"
 
   utter_ask_location:
   - text: "Please provide your city name."
